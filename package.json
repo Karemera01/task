@@ -1,0 +1,29 @@
+{
+  "name": "final-project-imind",
+  "version": "1.0.0",
+  "description": "iMind team final project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maharishi-university/final-project-imind.git"
+  },
+  "keywords": [
+    "express",
+    "react",
+    "project",
+    "js"
+  ],
+  "author": "Naha Unborn, Connor Lakour, Gerard karemera kwizera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maharishi-university/final-project-imind/issues"
+  },
+  "homepage": "https://github.com/maharishi-university/final-project-imind#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.2"
+  }
+}
